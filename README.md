@@ -4,9 +4,9 @@
 
 ---
 
-## 🎬 Demo GIF
+## 🎬 GIF
 
-![Geometry Guru Demo](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
+![Geometry Guru Demo]([https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyNzk2NjIsIm5iZiI6MTc2NTI3OTM2MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA5VDExMjI0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3ZjY5ZjkzOWRkN2MzYWFmMTM1NzkyYzk0NDg4MGI5MzRmMmU3YTRkOGRkOTJhYThhMDcxODc0MmFkYzY1MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lRKC02sM3otfqpwDHybljPqxXKRF2KGR0Q6dmLmVSwU))  
 *GIFda dastur ishga tushishi va menyu ishlashini ko‘rish mumkin.*
 
 ---
