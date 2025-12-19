@@ -101,7 +101,6 @@ class Geometry
         Console.WriteLine($"Doira yuzasi: {radius} * {radius} * π = {area:F2}");
     }
 
-    // 2 tomon berilganda → 3-tomon oralig'i
     public void Triangle(int a, int b)
     {
         double cMin = Math.Abs(a - b) + 1;
@@ -109,7 +108,6 @@ class Geometry
         Console.WriteLine($"Uchburchakda 3-tomon {cMin} va {cMax} oralig‘ida bo‘lishi mumkin.");
     }
 
-    // 3 tomon berilganda → yuzani hisoblash
     public void Triangle(int a, int b, int c)
     {
         if (!(a + b > c && a + c > b && b + c > a))
