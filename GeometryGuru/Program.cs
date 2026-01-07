@@ -10,16 +10,16 @@ class Program
         while (running)
         {
             Console.WriteLine("╔═══════════════════════╗");
-            Console.WriteLine("║      Geometry Guru     ║");
+            Console.WriteLine("║      Geometry Guru    ║");
             Console.WriteLine("╠═══════════════════════╣");
-            Console.WriteLine("║ 1. 🔘  Doira          ║");
-            Console.WriteLine("║ 2. 🔺  Uchburchak     ║");
-            Console.WriteLine("║ 3. ▭  To‘rtburchak     ║");
-            Console.WriteLine("║ 4. ⬛  Parallelogram    ║");
-            Console.WriteLine("║ 0. ❌  Chiqish        ║");
+            Console.WriteLine("║ 1.Doira               ║");
+            Console.WriteLine("║ 2.Uchburchak          ║");
+            Console.WriteLine("║ 3.To‘rtburchak        ║");
+            Console.WriteLine("║ 4.Parallelogram       ║");
+            Console.WriteLine("║ 0.Chiqish             ║");
             Console.WriteLine("╚═══════════════════════╝");
             Console.Write("Tanlovingiz: ");
-            
+
             int value = int.Parse(Console.ReadLine());
 
             switch (value)
@@ -83,11 +83,17 @@ class Program
                     Console.WriteLine("Noto‘g‘ri tanlov, qayta urinib ko‘ring.");
                     break;
             }
-            
-            Console.WriteLine("Dastur qayta ishga tushsinmi?(y/n)");
-            if (Console.ReadLine().Trim().ToLower() == "y" || Console.ReadLine().Trim().ToLower() == "yes")
+
+            Console.WriteLine("Dastur qayta ishga tushsinmi? (y/n)");
+
+            string input = Console.ReadLine().Trim().ToLower();
+
+            if (input == "" || input == "y" || input == "yes")
+            {
                 running = true;
-            else 
+                Console.Clear();
+            }
+            else
                 running = false;
         }
     }
