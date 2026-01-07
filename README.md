@@ -13,12 +13,12 @@
 
 ### Qo'llab-quvvatlanadigan Shakllar
 
-- **🔘 Doira (Circle)** — Radius asosida yuza hisoblash
-- **🔺 Uchburchak (Triangle)** — Ikki xil rejim:
+- **Doira (Circle)** — Radius asosida yuza hisoblash
+- **Uchburchak (Triangle)** — Ikki xil rejim:
   - 2 tomon berilganda uchinchi tomonning mumkin bo'lgan oralig'ini aniqlash
   - 3 tomon berilganda aniq yuza hisoblash (Geron formulasi)
-- **▭ To'rtburchak (Rectangle)** — Uzunlik va kenglik asosida yuza hisoblash
-- **⬛ Parallelogram** — Asos va balandlik asosida yuza hisoblash
+- **To'rtburchak (Rectangle)** — Uzunlik va kenglik asosida yuza hisoblash
+- **Parallelogram** — Asos va balandlik asosida yuza hisoblash
 
 ### Qo'shimcha Xususiyatlar
 
