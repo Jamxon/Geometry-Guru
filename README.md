@@ -3,12 +3,9 @@
 **Geometry Guru** — bu interaktiv C# konsol dasturi bo'lib, foydalanuvchilarga turli geometrik shakllarning yuzasini hisoblash imkonini beradi. Dastur konsol menyusi orqali ishlaydi va doira, uchburchak, to'rtburchak hamda parallelogram yuzalarini aniq hisoblaydi.
 
 ---
-
-## 🎬 Demo
+*Dasturning ishlash jarayoni va interaktiv menyusini ko'rishingiz mumkin*
 
 ![Demo](GeometryGuru/assets/Animation.gif)
-
-*Dasturning ishlash jarayoni va interaktiv menyusini ko'rishingiz mumkin*
 
 ---
 
