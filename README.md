@@ -6,7 +6,7 @@
 
 ## 🎬 Demo
 
-![Demo](Geometry-Guru/assets/Animation.gif)
+![Demo](GeometryGuru/assets/Animation.gif)
 
 *Dasturning ishlash jarayoni va interaktiv menyusini ko'rishingiz mumkin*
 
